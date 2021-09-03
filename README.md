@@ -1,2 +1,0 @@
-# MineralFishWebsite
-venatus for idea
