@@ -1,6 +1,8 @@
 html {
-background-color: grey;
+  background-color: grey;
 }
-p, h1, h2 {
+p,
+h1,
+h2 {
   text-color: white;
 }
