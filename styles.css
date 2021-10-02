@@ -6,3 +6,15 @@ h1,
 h2 {
   text-color: white;
 }
+button {
+  border: none;
+  color: white;
+  padding: 7px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font: 16px sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #3366cc;
+}
