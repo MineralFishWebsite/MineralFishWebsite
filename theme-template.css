@@ -1,38 +1,38 @@
 :root {
   --font: "Roboto", sans-serif;
-  
+
   --transition-duration: 0.2s;
-  
+
   --body-max-width: 50em;
-  
+
   --text-color: #555;
   --bold-color: #1d3557;
   --back-color: #f1faee;
-  
+
   --header-left-text: "#";
-  
+
   --link-color-1: #e63946;
-  --link-color-2: #F0E2D9;
-  
+  --link-color-2: #f0e2d9;
+
   --mark-color-1: #f4f452;
   --mark-color-2: #f9f99f;
-  
+
   --code-color-1: #e6e6e6;
   --code-color-2: #1d3557;
-  
+
   --button-border: lightgray;
   --button-hover-radius: 10px;
   --button-padding: 0.5em;
-  
+
   --navbar-font-size: 1.2em;
   --navbar-sep: " \0000a0•";
-  
+
   --shadow-1-a: 0.2;
   --shadow-2-a: 0.19;
   --section-radius: 10px;
-  
+
   --footer-padding: 2em;
   --footer-align: center;
-  
+
   --radius: 4px;
 }
